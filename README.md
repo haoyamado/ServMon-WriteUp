@@ -13,3 +13,15 @@ This repositories contains is Write-Up for machines as ServMon from HackTheBox
 
 ### After scanning and writing results in outfile, we're analysing.
 
+### port 21/tcp is FTP. Let's connect to FTP:
+      sudo ftp 10.10.10.184
+      login: anonymous
+      passwords: e-mail or any words
+      
+### Successful! We're connect to FTP.
+### Next we going to directory Users, where sign two users: Nathan and Nadine.
+      cd Nadine
+      dir
+      Confedential.txt
+### File Confidential.txt saying us, what file Passwords locate on Desktop Nathan's 
+
