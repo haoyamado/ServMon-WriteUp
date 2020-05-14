@@ -1,6 +1,6 @@
 # ServMon-WriteUp
 This repositories contains is Write-Up for machines as ServMon from HackTheBox
-<img src="https://www.hackthebox.eu/storage/avatars/2bc1a8dc04b09b8ac2db694f25ccf051.png" width="600">
+<img src="https://sun4-17.userapi.com/g44mv2PBJ9Se7IwUx0yR9MJjrbk3_q9GXgcdVA/VnP2VJqBvQw.jpg" width="600">
 # 1. Recon
 ### Here we going to Reconnaisance:
 ### Scanning ports (open and close).
